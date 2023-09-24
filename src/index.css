@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#navLink a.active {
+  color: rgb(193, 71, 71);
+}
